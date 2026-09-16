@@ -7,7 +7,7 @@ dict={
 
 print("search engine \n")
 while True:
-    userInput=input("enter the text : ").strip().lower()
+    userInput=input("enter the text : \nor type quit for exit").strip().lower()
 
 
     if userInput=="exit":
