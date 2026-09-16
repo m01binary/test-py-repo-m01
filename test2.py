@@ -2,7 +2,8 @@ dict={
     "cybersecurity" : "my life",
     "math": "i like it",
     "networking" : "very good",
-    "linux" : "the main os"
+    "linux" : "the main os",
+    "programming" : "brain food"
 }
 
 print("search engine \n")
